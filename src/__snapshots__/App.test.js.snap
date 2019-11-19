@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`First Snapshot test. 1`] = `
+<div>
+  <h1>
+    
+  </h1>
+   
+  <div>
+    <form
+      className="inputForm"
+      onSubmit={[Function]}
+    >
+      <input
+        autoComplete="off"
+        name="city"
+        placeholder="Enter city name"
+        type="text"
+      />
+       
+      <button>
+        Get Weather
+      </button>
+      <hr />
+    </form>
+  </div>
+   
+  <h1
+    id="W_P"
+  >
+    Weather Type
+  </h1>
+  <h2>
+    
+  </h2>
+  <hr />
+  <h1
+    id="Max_T"
+  >
+    Max Temperature
+  </h1>
+  <h2>
+    0°C
+  </h2>
+  <hr />
+  <h1
+    id="Min_T"
+  >
+    Min Temperature
+  </h1>
+  <h2>
+    0°C
+  </h2>
+  <hr />
+  <h1
+    id="W_S"
+  >
+    Wind Speed
+  </h1>
+  <h2>
+    0 km/h
+  </h2>
+</div>
+`;
+
+exports[`It successfully got the data. 1`] = `[Function]`;
